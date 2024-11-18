@@ -58,7 +58,7 @@ used.
 alu_32bit               1263   9901.766     0.000     9901.766 <none> (D)  
   (D) = wireload is default in technology library
 
-#### Power Report:
+## Power Report:
 
 Instance: /alu_32bit
 Power Unit: W
@@ -81,6 +81,6 @@ PDB Frames: /stim#0/frame#0
   
   -------------------------------------------------------------------------
 
-#### Result: 
+## Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
