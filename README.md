@@ -84,3 +84,5 @@ PDB Frames: /stim#0/frame#0
 ## Result: 
 
 The generic netlist of 32 bit ALU  has been created, and area, power reports have been tabulated and generated using Genus.
+
+
